@@ -1,1 +1,0 @@
-<h1>SLAMNICA</h1>
